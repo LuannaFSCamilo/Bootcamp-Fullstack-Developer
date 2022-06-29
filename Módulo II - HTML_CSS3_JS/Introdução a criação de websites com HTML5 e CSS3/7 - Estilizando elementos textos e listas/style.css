@@ -1,0 +1,19 @@
+body{
+    background: #ccc; /*cor de fundo*/
+}
+
+#title, .subtitle, .post_title{
+    color: blue;
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+}
+
+.post{
+    background: #FFF;
+    padding: 10px; /*espaçamento entre o conteúdo e a borda (px-pixel)*/
+    border:3px solid #000;/* 3px de largura, sólida, na cor preta*/
+    margin: 10px;/*espaçamento entre elementos*/
+}
